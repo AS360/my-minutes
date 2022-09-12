@@ -1,2 +1,2 @@
 # Keep_Clone
-For data save use local storage here.
+For data save we used local storage here.
